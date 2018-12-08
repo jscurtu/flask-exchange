@@ -2,8 +2,8 @@
 Flask-Exchange
 =================================
 Flask-Exchange is a simple and basic Flask extension which adds support for the Exchange using ExchangeLib.
-This extension is still in development and does not cover all setups for exchangelib. 
-Even with its limited functionality, it still might be useful for most users.
+This extension is still in development and does not cover all setups for exchangelib.
+Even with its current limited functionality, it still might be useful for most users.
 
 TODO for next release
 ===============
